@@ -119,6 +119,7 @@ nav button{
    margin:auto ;
 }
 .features h2{
+   color: crimson;
    font-size: 50px;
    font-weight: 600;
    margin-bottom: 20px;
